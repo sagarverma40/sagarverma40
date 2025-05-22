@@ -1,6 +1,6 @@
 # 📊 Data Analyst Portfolio
 
-Welcome to my Data Analyst Portfolio! This repository showcases my skills and projects in data analysis, including work with SQL, Python, Excel, and Power BI.
+Welcome to my Data Analyst Portfolio! This repository showcases my skills and projects in data analysis, including work with SQL, Python, Excel, Power BI and Machine Learning Enthusiast.
 
 ---
 
@@ -16,25 +16,7 @@ I am a detail-oriented and motivated Data Analyst with a strong foundation in da
 - **Python** – Data analysis with Pandas, NumPy, Matplotlib, Seaborn  
 - **Power BI** – Interactive dashboards, DAX, data modeling  
 - **Excel** – Advanced formulas, pivot tables, dashboards, data cleaning  
-- **Machine-Learning**
----
-
-## 📁 Projects
-
-### 📌 1. Netflix Analytics Dashboard
-- Tools: Python, MySQL, Power BI
-- Description: Cleaned and analyzed Netflix data to visualize genre trends, ratings, and country-wise availability.
-
-### 📌 2. Social Media Trend Analysis
-- Tools: Python, Power BI
-- Description: Collected and analyzed social media data (Facebook & Instagram) to identify trending topics, sentiment, and engagement metrics.
-
-### 📌 3. Bank Deposit Prediction Dashboard
-- Tools: Excel, Power BI
-- Description: Created predictive dashboards to analyze customer behavior and improve bank deposit conversion rates.
-
-
-
+- **Machine-Learning** - Model Building
 ---
 
 ## 🛠️ How to Use
