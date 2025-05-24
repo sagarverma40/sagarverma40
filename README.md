@@ -7,7 +7,7 @@ Welcome to my Data Analyst Portfolio! This repository showcases my skills and pr
 ## 🧑‍💼 About Me
 
 I am a detail-oriented and motivated Data Analyst with a strong foundation in data cleaning, visualization, and analytics. I enjoy transforming raw data into meaningful insights to support business decisions.
-
+LinkedIn https://www.linkedin.com/in/sagar-kumar-53100612a
 ---
 
 ## 🚀 Skills
